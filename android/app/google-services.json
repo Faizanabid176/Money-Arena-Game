@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546095565378",
+    "project_id": "playandearn-cd1ea",
+    "storage_bucket": "playandearn-cd1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546095565378:android:1be87b63cc973bfa047bdb",
+        "android_client_info": {
+          "package_name": "com.example.playandearnmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546095565378-om9lojoepcg4906srle4clq6n58err9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.playandearnmoney",
+            "certificate_hash": "d7145b6f1e82a09611a369902fac97c1aee25bd6"
+          }
+        },
+        {
+          "client_id": "546095565378-m3j9q0acu53tgt8deku1614i6ec5keqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkSzgkgJi6jJv-iCu6FhxWNeG2E_s6lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546095565378-m3j9q0acu53tgt8deku1614i6ec5keqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
